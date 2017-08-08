@@ -1,0 +1,146 @@
+<html>
+<title>NN</title>
+<head><center><div id="header" class="section" style="height:65px;">
+<font face="Arial" font size="14" color="White"><i> My Resume </font></div>
+</head>
+<body background="black.jpg" style="background-repeat:no repeat;">
+<hr>
+<div id="header" class="section" style="width:700px;height:400px;border:10px solid;border-color:Gray;border-radius:10px;" align="center">
+</br>
+<img alt="picture" Style="width:200px;heigth:200px;border-radius:400px" class="img-square" src="https://scontent.fmnl4-5.fna.fbcdn.net/v/t1.0-9/10959816_1578717922372909_3484602961766252179_n.jpg?oh=4e56b6cfa6a979490f85fa7f006e9313&oe=5A29A6EB">
+<p><font size="9" color="whitegray" face="times">Nebuchadnezzar S. Kuit</p></font>
+</div>
+<hr>
+
+<div id="header" class="section" style="width:330px;height:75px;border:10px solid;border-color:linen;border-radius:10px;" align="center">
+<h1><Font face="Courier" size="8" color="Linen">ABOUT ME</h1></Font>
+</div>
+<br>
+<div class="section" style="background-color:lavender;color:lavender;width:650px;height:340px;border:3px solid;border-color:linen;border-radius:3px;" align="center">
+<p align="left"><Font face="courier" Size="6" color="darkolivegreen"><strong>NAME:</strong>NEBUCHADNEZZAR S. KUIT<br>
+                                 <strong>AGE:</strong>16<br>
+                                 <strong>BIRTHDATE:</strong>May 15, 2001<br>
+                                 <strong>ADRESS:</strong>Bagua #2, Cotabato City<br>
+                                 <strong>SCHOOL:</strong>NDRVMCC<br>
+                                 <strong>SIBLINGS:</strong>3<br>
+                                 <strong>GRADE LEVEL:</strong>Grade 11
+                                 <strong>RELIGION:</strong>Islam(Alhamdulillah)
+                                 <strong>NATIONALITY:</strong>Pilipino</p>
+</div>
+<hr>
+
+<div id="header" class="section" style="width:330px;height:60px;border:10px solid;border-color:linen;border-radius:10px;" align="center">
+<h><Font face="Courier" size="8" color="Linen"><strong><b>FAVORITES</b></strong></h></Font>
+</div>
+<br>
+<table border="3" cellspacing="6" cellpadding="10" style="width:835px;text-align:center;">
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<tr><td><font color="white" size="6" face="italic"><strong>FOOD</strong></td>
+    <td><font color="white" size="6" face="italic">FRIES</td>
+</table>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>PET</strong></td>
+<td><font color="white" size="6" face="italic">CAT</td>
+</table>
+</tr>
+
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>COLOR</strong></td>
+<td><font color="white" size="6" face="italic">RED</td>
+</table>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>ELEMENT</strong></td>
+<td><font color="white" size="6" face="italic">FIRE</td>
+</table>
+</tr>
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>SHADE</strong></td>
+<td><font color="white" size="6" face="italic">BLACK</td>
+</table>
+
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>DOING</strong></td>
+<td><font color="white" size="6" face="italic">SLEEPING</td>
+</table>
+</tr>
+
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>Bird</strong></td>
+<td><font color="white" size="6" face="italic">Falcon</td>
+</table>
+
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>GAMES(GENRE)</strong></td>
+<td><font color="white" size="6" face="italic">MMORPG/MOBA/FPS</td>
+</table>
+</tr>
+
+</table border="3" cellspacing="6" cellpadding="10" style="width:835px;text-align:center;">
+<hr>
+
+<div id="header" class="section" style="width:330px;height:70px;border:10px solid;border-color:lightgray;border-radius:10px;" align="center">
+<h><Font face="Courier" size="10" color="Silver"><strong>GOALS</strong></h></Font>
+</div>
+<br>
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<tr><td><font color="white" size="6" face="italic"><strong>JOB</strong></td>
+    <td><font color="white" size="6" face="italic">ENGINEER</td>
+</table>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>PLACE</strong></td>
+<td><font color="white" size="6" face="italic">MOUNTAIN</td>
+</table>
+</tr>
+
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>DOING</strong></td>
+<td><font color="white" size="6" face="italic">TRAVELING</td>
+</table>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>FAMILY</strong></td>
+<td><font color="white" size="6" face="italic">YES</td>
+</table>
+</tr>
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>VEHICLE</strong></td>
+<td><font color="white" size="6" face="italic">CAR</td>
+</table>
+
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>GADGETS</strong></td>
+<td><font color="white" size="6" face="italic">GAMING LAPTOP</td>
+</table>
+</tr>
+
+<tr>
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>AFTER(STUDIES)</strong></td>
+<td><font color="white" size="6" face="italic">HAJJ</td>
+</table>
+
+<td><table border="1" cellspacing="8" cellpadding="10" style="width:450px;font-family:Georgia, Garamond, Serif;color:silver;font-style:italic;">
+<td><font color="white" size="6" face="italic"><strong>MY(GOAL)</strong></td>
+<td><font color="white" size="6" face="italic">TAKE A SLEEP FOR 1 DAY</td>
+</table>
+</tr>
+
+</table border="3" cellspacing="6" cellpadding="10" style="width:835px;text-align:center;">
+<hr>
+
+<p class="qoute"><font face="italic" color="white">“You don’t have to be rich to travel well.” – Eugene Fodor</font></p>
+
+
+
+
+                                 
+                              
+
+</body>
+</html>
